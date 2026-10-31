@@ -1,0 +1,10 @@
+Project package contents:
+- app.py: Streamlit dashboard
+- run_analysis.py: optional command-line processing script for the original household dataset
+- requirements.txt: Python dependencies
+- README.md: setup, features, input instructions, limitations
+- data/sample_daily_consumption.csv: illustrative demo data to open dashboard immediately
+- outputs/: folder for generated analysis output
+
+The original large Kaggle/UCI source dataset is not included. Upload it from the dashboard sidebar.
+The sample data is synthetic and intended only to demonstrate the dashboard interface.
